@@ -1,0 +1,6 @@
+{
+  "name": "Continuity Brain",
+  "description": "Sovereign local-first decision support tool that preserves how a founder or manager reasons through historical precedent retrieval and grounded local AI synthesis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
